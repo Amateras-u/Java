@@ -1,7 +1,7 @@
 import java.util.Locale;
 
 class Main {
-    public static void main(String args[]){
+    public static void main(String[] args){
         
         // valores strings vão entre aspas duplas 
         String product1 = "Computer";
